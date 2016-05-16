@@ -1,0 +1,1 @@
+CORS middleware for [restgo](https://github.com/restgo/restgo)
